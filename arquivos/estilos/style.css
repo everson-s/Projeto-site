@@ -33,7 +33,8 @@ header.container.logo{
 header.container.logo img{
     position: absolute;
     width: 100%;
-    height: 100%;
+    height: 100vh;
+    
 }
 
 main{
