@@ -10,7 +10,7 @@ body{
 }
 
 header{
-    background-color: #FE709C;
+    background-color: #f3f3f3;
     width: 100%;
 }
 
@@ -21,7 +21,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow:  3px 3px 5px rgba(0, 0, 0, 0.5);
+    /*box-shadow:  3px 3px 5px rgba(0, 0, 0, 0.5);*/
 }
 .logo{
     position: relative;
