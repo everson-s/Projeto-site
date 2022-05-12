@@ -39,11 +39,14 @@ header{
 }
 
 .menu nav{
-    background-color: blue;
+    /*background-color: blue;*/
 }
 
 .menu nav a{
-    background-color: red;
+    /*background-color: red;*/
+    text-decoration: none;
+    padding: 15px;
+    color: black;
 }
 
 main{
