@@ -57,6 +57,13 @@ header{
     color: black;
 }
 
+.img-home{
+    width: auto;
+    height: 12.50cm;
+    position: static;
+}
+
+
 main{
     background-color: #ffffff;
     width: 100vh;
