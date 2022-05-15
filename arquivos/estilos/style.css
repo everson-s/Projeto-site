@@ -12,6 +12,7 @@ body{
 header{
     background-color: #eee2d9;
     width: 100%;
+    position: fixed;
 }
 
 .container{
