@@ -86,7 +86,7 @@ header{
     object-fit: cover;
 }
 
-.selected{
+.slide img.selected{
     opacity: 1;
 }
 
