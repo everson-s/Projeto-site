@@ -79,8 +79,14 @@ header{
 }
 
 .slide img{
+    opacity: 0;
     position: absolute;
     width: 100%;
     height: 100%;
+    object-fit: cover;
+}
+
+.selected{
+    opacity: 1;
 }
 
