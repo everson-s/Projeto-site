@@ -18,7 +18,7 @@ body{
 header{
     background-color: #eee2d9;
     width: 100%;
-    position: relative;
+    position: absolute;
    
 }
 
@@ -30,7 +30,7 @@ header{
     align-items: center;
     justify-content: center;
     /*box-shadow:  3px 3px 5px rgba(0, 0, 0, 0.5);*/
-    position: absolute;
+    position: relative;
 }
 .logo{
     position: relative;
