@@ -15,7 +15,12 @@ body{
     position: absolute;
 }
 
-
+header{
+    background-color: #eee2d9;
+    width: 100%;
+    position: absolute;
+   
+}
 
 .container{
     max-width: 1080px;
