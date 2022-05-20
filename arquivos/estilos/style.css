@@ -4,7 +4,7 @@
     margin: 0px;
     padding: 0px;
     background-color: #eee2d9;
-    scrollbar-arrow-color: blue;
+    overflow-x: hidden;
     
 }
 
