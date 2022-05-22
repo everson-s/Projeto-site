@@ -72,6 +72,7 @@ header{
     padding: 6px;
     text-transform: uppercase;
     border: #ffffff;
+    cursor: pointer;
 }
 
 .menu nav a{
