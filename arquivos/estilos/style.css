@@ -110,7 +110,7 @@ header{
 
 }
 
-.instagram{
+.btninstagram{
     width: 20px;
     height: 20px;
     position: absolute;
@@ -118,3 +118,6 @@ header{
     padding: 12px;
 }
 
+.instagram{
+    
+}
