@@ -103,3 +103,13 @@ header{
     opacity: 1;
 }
 
+.redes-sociais{
+    position: absolute;
+}
+
+.instagram{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}
+
