@@ -4,6 +4,7 @@
     margin: 0px;
     padding: 0px;
     background-color: #eee2d9;
+    
    
 }
 
@@ -20,7 +21,7 @@ header{
     background-color: #eee2d9;
     width: 100%;
     position: fixed;
-    z-index: 999px;
+    z-index: 2;
     top: 0;
     left: 0;
 
@@ -67,8 +68,9 @@ header{
 .btnComprar{
     background-color: #c5a183;
     color: white;
-    padding: 5px;
+    padding: 6px;
     text-transform: uppercase;
+    border: #ffffff;
 }
 
 .menu nav a{
@@ -81,7 +83,7 @@ header{
 .slide{
     width: 100vw;
     height: 100vh;
-    
+    z-index: 1;
     position: relative;
 
 }
