@@ -137,3 +137,31 @@ header{
     height: 100%;
     position: relative;
 }
+
+.btnFacebook{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    object-fit: cover;
+    padding: 12px;
+}
+
+.imgFacebook{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.btnWorld{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    object-fit: cover;
+    padding: 12px;
+}
+
+.imgWorld{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
