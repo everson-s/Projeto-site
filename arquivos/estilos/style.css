@@ -105,11 +105,16 @@ header{
 
 .redes-sociais{
     position: absolute;
+    width: 100%;
+    height: 50px;
+
 }
 
 .instagram{
     width: 20px;
     height: 20px;
     position: absolute;
+    object-fit: cover;
+    padding: 12px;
 }
 
