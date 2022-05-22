@@ -113,7 +113,7 @@ header{
 .btnInstagram{
     width: 20px;
     height: 20px;
-    position: absolute;
+    position: relative;
     object-fit: cover;
     padding: 12px;
 }
@@ -127,7 +127,7 @@ header{
 .btnTwitter{
     width: 20px;
     height: 20px;
-    position: absolute;
+    position: relative;
     object-fit: cover;
     padding: 12px;
 }
@@ -141,7 +141,7 @@ header{
 .btnFacebook{
     width: 20px;
     height: 20px;
-    position: absolute;
+    position: relative;
     object-fit: cover;
     padding: 12px;
 }
@@ -155,7 +155,7 @@ header{
 .btnWorld{
     width: 20px;
     height: 20px;
-    position: absolute;
+    position: relative;
     object-fit: cover;
     padding: 12px;
 }
