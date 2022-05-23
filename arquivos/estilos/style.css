@@ -115,6 +115,7 @@ header{
 }
 
 .btnInstagram{
+    background-color: transparent;
     width: 20px;
     height: 20px;
     position: relative;
@@ -130,6 +131,7 @@ header{
 }
 
 .btnTwitter{
+    background-color: transparent;
     width: 20px;
     height: 20px;
     position: relative;
@@ -144,6 +146,7 @@ header{
 }
 
 .btnFacebook{
+    background-color: transparent;
     width: 20px;
     height: 20px;
     position: relative;
@@ -158,6 +161,7 @@ header{
 }
 
 .btnWorld{
+    background-color: transparent;
     width: 20px;
     height: 20px;
     position: relative;
