@@ -8,15 +8,6 @@
    
 }
 
-body{
-    background-color: rgb(255, 255, 255);
-    display: flex;
-    flex-direction: center;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    overflow-x: hidden;
-}
 
 header{
     background-color: #eee2d9;
