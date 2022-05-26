@@ -115,13 +115,24 @@ h1{
 }
 
 .titulo-principal{
-    top: -300px;
+    top: -350px;
     left: 50px;
     position: relative;
     z-index: 3;
     text-decoration: solid;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 32px;
+    color: black;
+}
+
+.titulo-secundario{
+    top: -350px;
+    left: 50px;
+    position: relative;
+    z-index: 3;
+    text-decoration: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22 px;
     color: black;
 }
 
