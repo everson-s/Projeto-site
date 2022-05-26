@@ -106,6 +106,9 @@ header{
     opacity: 1;
 }
 
+.main{
+    color: transparent;
+}
 .titulo-principal{
     top: -300px;
     left: 50px;
@@ -114,6 +117,7 @@ header{
     text-decoration: solid;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 32px;
+    color: white;
 }
 
 .redes-sociais{
