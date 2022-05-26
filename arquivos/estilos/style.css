@@ -111,6 +111,7 @@ header{
     left: 50px;
     position: relative;
     z-index: 3;
+    text-decoration: solid;
 }
 
 .redes-sociais{
