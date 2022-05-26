@@ -109,6 +109,10 @@ header{
 .main{
     color: transparent;
 }
+
+h1{
+    color: transparent;
+}
 .titulo-principal{
     top: -300px;
     left: 50px;
