@@ -112,6 +112,8 @@ header{
     position: relative;
     z-index: 3;
     text-decoration: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
 }
 
 .redes-sociais{
