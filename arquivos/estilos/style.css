@@ -113,6 +113,7 @@ header{
 h1{
     color: transparent;
 }
+
 .titulo-principal{
     top: -300px;
     left: 50px;
@@ -121,7 +122,7 @@ h1{
     text-decoration: solid;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 32px;
-    color: white;
+    color: black;
 }
 
 .redes-sociais{
