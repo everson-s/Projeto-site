@@ -138,11 +138,12 @@ h1{
     position: relative;
     width: 100%;
     top: -140px;
-    left: 50px;
+    left: 40px;
     z-index: 1;
     display: flex;
     align-items: left;
     justify-content: left;
+   
 }
 
 .btnSocial{
@@ -153,7 +154,7 @@ h1{
     cursor: pointer;
     z-index: 1;
     border: transparent;   
-    padding: 2px; 
+    margin: 0 10px;
 }
 
 .imgSocial{
