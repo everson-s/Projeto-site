@@ -34,7 +34,7 @@ header{
     justify-content: left;
     box-shadow:  3px 3px 5px rgba(0, 0, 0, 0.5);
     position: relative;
-    background-color: blue;
+    
 }
 .logo{
     position: relative;
@@ -108,7 +108,7 @@ h1{
 }
 
 .titulo-principal{
-    top: -350px;
+    top: -390px;
     left: 50px;
     position: relative;
     z-index: 3;
@@ -119,7 +119,7 @@ h1{
 }
 
 .titulo-secundario{
-    top: -350px;
+    top: -380px;
     left: 50px;
     position: relative;
     z-index: 3;
