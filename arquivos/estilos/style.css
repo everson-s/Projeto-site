@@ -31,7 +31,7 @@ header{
     margin: 0 auto;
     display: flex;
     align-items: center;
-    /*justify-content: left;*/
+    justify-content: left;
     box-shadow:  3px 3px 5px rgba(0, 0, 0, 0.5);
     position: relative;
 }
@@ -54,7 +54,7 @@ header{
     /*background-color: blue;*/
     text-transform: uppercase;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+    justify-content: right;
 }
 
 .loja{
@@ -107,7 +107,7 @@ h1{
 }
 
 .titulo-principal{
-    top: -400px;
+    top: -350px;
     left: 50px;
     position: relative;
     z-index: 3;
@@ -118,7 +118,7 @@ h1{
 }
 
 .titulo-secundario{
-    top: -375px;
+    top: -350px;
     left: 50px;
     position: relative;
     z-index: 3;
