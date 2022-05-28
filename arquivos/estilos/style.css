@@ -107,7 +107,7 @@ h1{
 }
 
 .titulo-principal{
-    top: -350px;
+    top: -400px;
     left: 50px;
     position: relative;
     z-index: 3;
@@ -118,7 +118,7 @@ h1{
 }
 
 .titulo-secundario{
-    top: -350px;
+    top: -375px;
     left: 50px;
     position: relative;
     z-index: 3;
