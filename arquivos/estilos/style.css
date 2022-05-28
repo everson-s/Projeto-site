@@ -31,7 +31,7 @@ header{
     margin: 0 auto;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: left;
     box-shadow:  3px 3px 5px rgba(0, 0, 0, 0.5);
     position: relative;
 }
