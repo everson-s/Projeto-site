@@ -61,14 +61,15 @@ header{
 }
 
 .loja{
+    position: relative;
     text-transform: uppercase;
-    
+    left: 15px;
 }
 
 .btnComprar{
     background-color: #c5a183;
     color: white;
-    padding: 6px;
+    padding: 10px;
     text-transform: uppercase;
     border: #ffffff;
     cursor: pointer;
