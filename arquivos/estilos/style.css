@@ -65,10 +65,12 @@ header{
 .loja{
     position: relative;
     text-transform: uppercase;
-    left: 15px;
+   
 }
 
 .btnComprar{
+    position: relative;
+    left: 810px;
     background-color: #c5a183;
     color: white;
     padding: 10px;
